@@ -1,5 +1,8 @@
 _repo: The-Pawns-Count_9836
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Oppenheim, E. Phillips (Edward Phillips)
@@ -16,6 +19,8 @@ description: In this 1918 novel, set on the eve of World War I, the stolen formu
   spies of the United States, Germany, England, and Japan. The American, a wealthy
   socialite named Pamela Van Teyl, matches wits and hearts with three handsome but
   deadly opponents.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9836#The-Pawns-Count
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
